@@ -1,5 +1,7 @@
 ### Hi there, I'm Jugal Prajapati 👋
 
+![](https://komarev.com/ghpvc/?username=Jugal-Prajapati-2505)
+
 ## I'm a Student, Developer, and Learner!!
 
 - 🌱 I’m currently learning everything 🤣
