@@ -83,6 +83,6 @@
 
 [twitter]: https://twitter.com/JugalPrajapati0
 [youtube]: https://www.youtube.com/channel/UCBTJKMMVkUWhl5IFPgfaEgg
-[instagram]: https://instagram.com/jugalprajapati2505
+[instagram]: https://www.instagram.com/jugal_prajapati_2505/
 [linkedin]: https://www.linkedin.com/in/jugal-prajapati-87965919a/
 
