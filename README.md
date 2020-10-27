@@ -1,6 +1,6 @@
 ### Hi there, I'm Jugal Prajapati 👋
 
-![](https://komarev.com/ghpvc/?username=Jugal-Prajapati-2505&label=VISITORS:&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Jugal-Prajapati-2505&label=VISITORS&color=brightgreen)
 
 ## I'm a Student, Developer, and Learner!!
 
