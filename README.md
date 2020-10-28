@@ -33,15 +33,6 @@
 <br />
 <br />
 
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jugal's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/JugalPrajapati0
 [youtube]: https://www.youtube.com/channel/UCBTJKMMVkUWhl5IFPgfaEgg
 [instagram]: https://www.instagram.com/jugal_prajapati_2505/
