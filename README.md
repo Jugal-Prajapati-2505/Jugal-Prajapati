@@ -4,10 +4,8 @@
 
 ## I'm a Student, Developer, and Learner!!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Hacking. 
 - 👯 I’m happy to collaborate with other.
-- 🥅 2020 Goals: Learn Hacking.
-- ⚡ Fun fact: I love playing computer games and outdoor Basketball.
 
 ### Connect with me:
 
