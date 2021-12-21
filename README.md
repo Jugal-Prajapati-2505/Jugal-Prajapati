@@ -4,7 +4,7 @@
 
 ## I'm a Student, Developer, and Learner!!
 
-- 🌱 I’m currently learning Hacking. 
+- 🌱 I’m currently learning MERNstack. 
 - 👯 I’m happy to collaborate with other.
 
 ### Connect with me:
