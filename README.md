@@ -37,7 +37,6 @@
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/cyber-security.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/fluency/48/000000/anaconda--v2.png" />
 <img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/linux.png" />
-<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/clouds/64/000000/window-bug.png" />
 
 <br />
 <br />
