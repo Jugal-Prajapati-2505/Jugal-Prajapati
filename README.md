@@ -4,12 +4,11 @@
 
 ## I'm a Student, Developer, and Learner!!
 
-- 🌱 I’m currently learning MERNstack. 
+- 🌱 I’m currently learning ASP.NET CORE + ANGULAR. 
 - 👯 I’m happy to collaborate with other.
 
 ### Connect with me:
 
-[<img align="left" alt="jugal | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="jugal | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="jugal | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="jugal | Instagram" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" />][instagram]
@@ -42,7 +41,6 @@
 <br />
 
 [twitter]: https://twitter.com/JugalPrajapati0
-[youtube]: https://www.youtube.com/channel/UCBTJKMMVkUWhl5IFPgfaEgg
 [instagram]: https://www.instagram.com/jugal_prajapati_2505/
 [linkedin]: https://www.linkedin.com/in/jugal-prajapati-87965919a/
 
