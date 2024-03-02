@@ -2,9 +2,9 @@
 
 ![](https://komarev.com/ghpvc/?username=Jugal-Prajapati-2505&label=VISITORS&color=brightgreen)
 
-## I'm a Student, Developer, and Learner!!
+## I'm a Full Stack Developer!!
 
-- 🌱 I’m currently learning ASP.NET CORE + ANGULAR. 
+- 🌱 I’m currently working in the one of the MNC. 
 - 👯 I’m happy to collaborate with other.
 
 ### Connect with me:
